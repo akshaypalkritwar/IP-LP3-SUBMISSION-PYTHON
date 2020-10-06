@@ -1,3 +1,4 @@
+#satrt
 string=input()
 s=''
 for i in string:
